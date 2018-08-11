@@ -1,2 +1,2 @@
-# simple-image-picker-react-native-expo
+# simple image picker react-native expo
 using expo 
